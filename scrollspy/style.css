@@ -1,0 +1,40 @@
+.logo{
+    border-radius: 50%;
+}
+.gal{
+    background-color: aqua;
+
+}
+.images{
+    background-color: rgb(168, 213, 245);
+}
+.car{
+    background-color: rgb(161, 155, 248);
+}
+.quizz{
+    background-color: rgb(129, 230, 244);
+}
+p{
+    font-family:'Times New Roman', Times, serif;
+}
+p{
+    font-size: 1.5rem;
+    font-style: italic;
+    
+}
+.h1{
+    text-shadow: 20px 0px 20px rgb(16, 16, 16);
+}
+h4{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    font-style: italic;
+    
+
+}
+nav{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 1.3rem;
+    font-style: italic;
+    text-shadow: 5px 0px 10px rgb(248, 118, 118);
+}

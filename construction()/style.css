@@ -1,0 +1,58 @@
+img
+{
+    max-width: 100%;
+}
+.gallery
+{
+    background-color: rgb(211, 211, 207);
+    padding: 80px 0;
+}
+.gallery img{
+    background-color: #ffffff;
+    padding: 10px;
+    width: 100%;
+    box-shadow: 0 0 15px rgba(0,0,0,0.3);
+    cursor: pointer;
+}
+#gallery-modal .modal-img
+{
+    width: 100% ;
+}
+.gal
+{
+    background-color: rgb(245, 205, 182);
+    padding: 80px 0;
+}
+.gal img{
+    background-color: #ffffff;
+    padding: 10px;
+    width: 100%;
+    box-shadow: 0 0 15px rgba(0,0,0,0.3);
+    cursor: pointer;
+}
+.images4
+{
+    background-color: rgb(66, 65, 63);
+    padding: 80px 0;
+}
+.images4 img{
+    background-color: #ffffff;
+    padding: 10px;
+    width: 100%;
+    box-shadow: 0 0 15px rgba(0,0,0,0.3);
+    cursor: pointer;
+}
+.background
+{
+    background-image: url(https://realsales.in/wp-content/uploads/2022/01/cedac48d-d801-493b-adb7-d5ebd58e026b-1170x785.jpg);
+}
+.map
+{
+    background-image: url(https://im.proptiger.com/1/3143365/6/advaith-elevation-126447827.jpeg);
+}
+.font
+{
+    font-family: roboto;
+}
+
+
